@@ -1,5 +1,5 @@
-## PRITHIVIRAJAN V
-## 212223100042
+## Name: PRITHIVIRAJAN V
+## Reg No: 212223100042
 # EX no-1-CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
 ## AIM
 To Create an Account in AWS Set up a Root user and an IAM user.
